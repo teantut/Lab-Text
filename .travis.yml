@@ -1,0 +1,12 @@
+language: cpp
+compiler:
+  - clang
+before_script:
+  - mkdir ../build
+  - cd ../build
+script:
+  - cmake ../Lab-Text
+  - make -j
+  - ./test/Mp12_Text
+notifications:
+  email: false
