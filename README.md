@@ -1,1 +1,1 @@
-# Lab-Text
+[![Build Status](https://travis-ci.org/teantut/Lab-Text.svg?branch=main)](https://travis-ci.org/teantut/Lab-Text)
